@@ -17,7 +17,7 @@
 ### Boca Juniors
 Soy un gran fan de Boca Juniors. 
 
-![Boca Juniors](https://upload.wikimedia.org/wikipedia/commons/8/8c/Boca_Juniors_logo18.png)
+![Boca Juniors](https://www.shutterstock.com/image-vector/boca-juniors-icon-blue-yellow-600nw-2095749472.jpg)
 
 ### Contacto
 Si quieres ponerte en contacto conmigo, puedes hacerlo a través de [mi correo electrónico](francisco.portella7@gmail.com).
